@@ -1,7 +1,7 @@
 import java.util.Scanner;
 /**
- *
- * @author 
+ * This program asks the user for 2 intergers then gives you the quotient and remainder of the 2
+ * @author Jackosn
  */
 public class Main {
 
